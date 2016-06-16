@@ -1,0 +1,627 @@
+Description,Currency,Container-type,Container size,Unit,Rate/unit
+
+port,DKAAR1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,199.01
+
+port,BEANR1
+Documentation fee - Destination,EUR,standard,20,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,180.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,180.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,180.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,180.0
+
+port,DEBRV1
+Documentation fee - Destination,EUR,standard,20,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,237.0
+
+port,DKCSO1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,199.01
+
+port,Cork
+Documentation fee - Destination,EUR,standard,20,PER_BL,40.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,40.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,40.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,40.0
+
+port,IEDUB1
+Documentation fee - Destination,EUR,standard,20,PER_BL,40.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,40.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,40.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,40.0
+
+port,GBFXT1
+Documentation fee - Destination,GBP,standard,20,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,20,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40HC,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,45HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,45HC,PER_CONTAINER,145.0
+
+port,SEFRA1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Import Service,EUR,standard,20,PER_CONTAINER,181.87
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Import Service,EUR,standard,40,PER_CONTAINER,194.32
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,194.32
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,194.32
+
+port,SEGOT1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,195.41
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,208.72
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,208.72
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,208.72
+
+port,SEHAD1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,195.41
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,208.72
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,208.72
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,208.72
+
+port,DEHAM1
+Documentation fee - Destination,EUR,standard,20,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,237.0
+
+port,SEHEL1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,164.77
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,174.51
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,174.51
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,174.51
+
+port,LTKLJ1
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,91 
+Import Service,EUR,standard,20,PER_CONTAINER,95 
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,91 
+Import Service,EUR,standard,40,PER_CONTAINER,95 
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,91 
+Import Service,EUR,standard,40HC,PER_CONTAINER,95 
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,91 
+Import Service,EUR,standard,45HC,PER_CONTAINER,95 
+
+port,FRLEH1
+Documentation fee - Destination,EUR,standard,20,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,205.0
+Import Service,EUR,standard,20,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,205.0
+Import Service,EUR,standard,40,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,205.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,205.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,0.0
+
+port,SENOR1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Import Service,EUR,standard,20,PER_CONTAINER,181.87
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Import Service,EUR,standard,40,PER_CONTAINER,194.32
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,194.32
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,208.72
+
+port,NLRTM1
+Documentation fee - Destination,EUR,standard,20,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,210.0
+Import Service,EUR,standard,20,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,210.0
+Import Service,EUR,standard,40,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,210.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,210.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,0.0
+
+port,SESOE1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,195.41
+Inland Haulage Import,EUR,standard,20,PER_CONTAINER,175.38
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,208.72
+Inland Haulage Import,EUR,standard,40,PER_CONTAINER,311.78
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,208.72
+Inland Haulage Import,EUR,standard,40HC,PER_CONTAINER,311.78
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,208.72
+Inland Haulage Import,EUR,standard,45HC,PER_CONTAINER,337.76
+
+port,GBSOU1
+Documentation fee - Destination,GBP,standard,20,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,20,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40HC,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,45HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,45HC,PER_CONTAINER,145.0
+
+port,RUSPA1
+Documentation fee - Destination,USD,standard,20,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,20,PER_CONTAINER,480.0
+Import Service,USD,standard,20,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,40,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40,PER_CONTAINER,480.0
+Import Service,USD,standard,40,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,40HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40HC,PER_CONTAINER,480.0
+Import Service,USD,standard,40HC,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,45HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,45HC,PER_CONTAINER,480.0
+Import Service,USD,standard,45HC,PER_CONTAINER,60.0
+
+port,DKTLV1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,199.01
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,199.01
+
+port,DKTRG1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Import Service,EUR,standard,20,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Import Service,EUR,standard,40,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,0.0
+
+port,DEWVN1
+Documentation fee - Destination,EUR,standard,20,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,237.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,237.0
+
+port,NOAAA1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOBGO1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NODRM1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOFRK1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOKRS1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOLAR1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOLSU1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOMSS1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOSVG1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+
+port,NOTRD1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,146.5
+Inland Haulage Import,EUR,standard,20,PER_CONTAINER,274.56
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,146.5
+Inland Haulage Import,EUR,standard,40,PER_CONTAINER,453.62
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,146.5
+Inland Haulage Import,EUR,standard,40HC,PER_CONTAINER,453.62
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,146.5
+Inland Haulage Import,EUR,standard,45HC,PER_CONTAINER,453.62
+
+port,Belfast
+Documentation fee - Destination,GBP,standard,20,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,20,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40HC,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,45HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,45HC,PER_CONTAINER,145.0
+
+port,PLGDN1
+Documentation fee - Destination,EUR,standard,20,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,115.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,115.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,115.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,115.0
+
+port,GBGRG1
+Documentation fee - Destination,GBP,standard,20,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,20,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40HC,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,45HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,45HC,PER_CONTAINER,145.0
+
+port,FIHEL1
+Documentation fee - Destination,EUR,standard,20,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,130.0
+
+port,FIKTK1
+Documentation fee - Destination,EUR,standard,20,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,130.0
+Import Service,EUR,standard,20,PER_CONTAINER,25.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,130.0
+Import Service,EUR,standard,40,PER_CONTAINER,25.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,130.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,25.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,130.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,25.0
+
+port,FRMNM1
+Documentation fee - Destination,EUR,standard,20,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,205.0
+Import Service,EUR,standard,20,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,205.0
+Import Service,EUR,standard,40,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,205.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,205.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,0.0
+
+port,NOOSL1
+Documentation fee - Destination,EUR,standard,20,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,0.0
+Import Service,EUR,standard,20,PER_CONTAINER,155.19
+Documentation fee - Destination,EUR,standard,40,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,0.0
+Import Service,EUR,standard,40,PER_CONTAINER,155.19
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,50.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,0.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,155.19
+
+port,FIOLK1
+Documentation fee - Destination,EUR,standard,20,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,130.0
+
+port,FIRAA1
+Documentation fee - Destination,EUR,standard,20,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,130.0
+
+port,LVRIX1
+Terminal Handling Service - Destination,USD,standard,20,PER_CONTAINER,150 
+Import Service,EUR,standard,20,PER_CONTAINER,85 
+Terminal Handling Service - Destination,USD,standard,40,PER_CONTAINER,150 
+Import Service,EUR,standard,40,PER_CONTAINER,85 
+Terminal Handling Service - Destination,USD,standard,40HC,PER_CONTAINER,150 
+Import Service,EUR,standard,40HC,PER_CONTAINER,85 
+Terminal Handling Service - Destination,USD,standard,45HC,PER_CONTAINER,150 
+Import Service,EUR,standard,45HC,PER_CONTAINER,85 
+
+port,RUSPA1
+Documentation fee - Destination,USD,standard,20,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,20,PER_CONTAINER,480.0
+Import Service,USD,standard,20,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,40,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40,PER_CONTAINER,480.0
+Import Service,USD,standard,40,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,40HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40HC,PER_CONTAINER,480.0
+Import Service,USD,standard,40HC,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,45HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,45HC,PER_CONTAINER,480.0
+Import Service,USD,standard,45HC,PER_CONTAINER,60.0
+
+port,PLSZZ1
+Documentation fee - Destination,EUR,standard,20,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,115.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,115.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,115.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,30.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,115.0
+
+port,EETLL1
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,156 
+Import Service,EUR,standard,20,PER_CONTAINER,85 
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,156 
+Import Service,EUR,standard,40,PER_CONTAINER,85 
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,156 
+Import Service,EUR,standard,40HC,PER_CONTAINER,85 
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,156 
+Import Service,EUR,standard,45HC,PER_CONTAINER,85 
+
+port,GBTEE1
+Documentation fee - Destination,GBP,standard,20,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,20,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40HC,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,45HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,45HC,PER_CONTAINER,145.0
+
+port,RUUCH1
+Documentation fee - Destination,USD,standard,20,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,20,PER_CONTAINER,422.0
+Import Service,USD,standard,20,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,40,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40,PER_CONTAINER,422.0
+Import Service,USD,standard,40,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,40HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40HC,PER_CONTAINER,422.0
+Import Service,USD,standard,40HC,PER_CONTAINER,60.0
+Documentation fee - Destination,USD,standard,45HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,45HC,PER_CONTAINER,422.0
+Import Service,USD,standard,45HC,PER_CONTAINER,60.0
+
+port,FITOR1
+Documentation fee - Destination,EUR,standard,20,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,130.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,65.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,130.0
+
+port,RUKGD1
+Documentation fee - Destination,USD,standard,20,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,20,PER_CONTAINER,164.0
+Import Service,USD,standard,20,PER_CONTAINER,86.0
+Documentation fee - Destination,USD,standard,40,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40,PER_CONTAINER,286.0
+Import Service,USD,standard,40,PER_CONTAINER,122.0
+Documentation fee - Destination,USD,standard,40HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,40HC,PER_CONTAINER,286.0
+Import Service,USD,standard,40HC,PER_CONTAINER,122.0
+Documentation fee - Destination,USD,standard,45HC,PER_CONTAINER,0.0
+Terminal Handling Service - Destination,USD,standard,45HC,PER_CONTAINER,286.0
+Import Service,USD,standard,45HC,PER_CONTAINER,122.0
+
+port,GBSSH1
+Documentation fee - Destination,GBP,standard,20,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,20,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40HC,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,45HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,45HC,PER_CONTAINER,145.0
+
+port,GBIMM1
+Documentation fee - Destination,GBP,standard,20,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,20,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,40HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,40HC,PER_CONTAINER,145.0
+Documentation fee - Destination,GBP,standard,45HC,PER_BL,20.0
+Terminal Handling Service - Destination,GBP,standard,45HC,PER_CONTAINER,145.0
+
+port,FRBES1
+Documentation fee - Destination,EUR,standard,20,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,20,PER_CONTAINER,205.0
+Import Service,EUR,standard,20,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,40,PER_CONTAINER,205.0
+Import Service,EUR,standard,40,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,40HC,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,40HC,PER_CONTAINER,205.0
+Import Service,EUR,standard,40HC,PER_CONTAINER,0.0
+Documentation fee - Destination,EUR,standard,45HC,PER_BL,25.0
+Terminal Handling Service - Destination,EUR,standard,45HC,PER_CONTAINER,205.0
+Import Service,EUR,standard,45HC,PER_CONTAINER,0.0

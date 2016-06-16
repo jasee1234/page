@@ -1,0 +1,394 @@
+Description,Currency,Container-type,Container size,Unit,Rate/unit
+
+port,INAMD6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,1640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,1700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,1700 
+
+port,INAWM6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,6150 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,2350 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,9750 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,3450 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,9750 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,2250 
+
+port,INBLR6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,4850 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,6750 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,6750 
+
+port,INBWN1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,6150 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,9750 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,9750 
+
+port,INBTR1
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,11525 
+
+port,INMAA1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,4850 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,6750 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,6750 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,8299 
+
+port,INCOK1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,8000 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,11550 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,11550 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,15100 
+
+port,INGNO1
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,8169 
+
+port,INHHG6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,1640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,3700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,3700 
+
+port,INHAL1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,8200 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,11700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,11700 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,14500 
+
+port,INHZA1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,6970 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10240 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10240 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,12940 
+
+port,INHYD6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,6150 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,5350 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,9750 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,7750 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,9750 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,10250 
+
+port,INJAI6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,2640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,4700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,4700 
+
+port,INNSA1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,6150 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,9750 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,9750 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,11525 
+
+port,INJDG1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,2640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,4700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,4700 
+
+port,INKNU6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,1640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,3700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,3700 
+
+port,INKAT1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,4510 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,6510 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,6510 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,8169 
+
+port,INCCU1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,8200 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,11700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,11700 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,14500 
+
+port,INKRI1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,4310 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,6310 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,6310 
+
+port,INLUH6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,1140 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,4200 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,4200 
+
+port,INIXE1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,4470 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,6250 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,6250 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,3880 
+
+port,INMRM1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,5890 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,9320 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,9320 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,9220 
+
+port,INMOR6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,4640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,8700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,8700 
+
+port,INMUN1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,15010 
+
+port,INICD1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,1640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,3700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,3700 
+
+port,INPAV1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,6600 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10100 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10100 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,13200 
+
+port,INPIR6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,6150 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,3050 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,9750 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,3450 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,9750 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,5750 
+
+port,INSTT6
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,7460 
+Dry port Surcharge,INR,standard,20,PER_CONTAINER,1640 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40,PER_CONTAINER,3700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,10500 
+Dry port Surcharge,INR,standard,40HC,PER_CONTAINER,3700 
+
+port,INTUT1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,4800 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,6250 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,6250 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,7480 
+
+port,INVTZ1
+Export Service,INR,standard,20,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,20,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,20,PER_CONTAINER,5300 
+Export Service,INR,standard,40,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40,PER_CONTAINER,8700 
+Export Service,INR,standard,40HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,40HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,40HC,PER_CONTAINER,8700 
+Export Service,INR,standard,45HC,PER_CONTAINER,0 
+Documentation Fee Origin,INR,standard,45HC,PER_BL,2600.0
+Terminal Handling Service - Origin,INR,standard,45HC,PER_CONTAINER,9660 
